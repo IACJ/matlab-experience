@@ -2,4 +2,5 @@
 
 * BhH1 - 16QAM   （todo：check）
 * exp1 - BFSK    （ok）
-* exp2 - Huffman （doing）
+* exp2 - Huffman （ok）
+* exp3 - 信道编码
